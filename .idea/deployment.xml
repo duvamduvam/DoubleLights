@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root robot">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="$PROJECT_DIR$/../dadou_robot" web="/" />
+            <mapping local="$PROJECT_DIR$/../dadou_utils" web="/" />
+            <mapping local="$PROJECT_DIR$/../dadou_sceno" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root robot (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/didier/deploy" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

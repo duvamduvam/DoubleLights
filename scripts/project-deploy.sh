@@ -3,11 +3,11 @@
 ####################### PROJECT PARAMS #############################
 
 export PROJECT_NAME="hardrive"
-export PROJECT_PATH=~/Nextcloud/Didier/python/HardDrive/
+export PROJECT_PATH=~/Nextcloud/Didier/python/dadou_disk/
 
 export USER_HOST="d"
 export ROOT_HOST="dr"
-export RPI_IP="192.168.1.230"
+export RPI_HOST_NAME="disk.local"
 
 export INSTALL_LIB="yes"
 #export SET_USB_AUDIO="yes"
@@ -16,11 +16,11 @@ export SET_BASHRC="yes"
 export SET_VIMRC="yes"
 export INSTALL_SERVICE="yes"
 #export INSTALL_AUTOSTART="yes"
-export SERVICE_NAME=disk
-export LOG_FILE=hardrive.log
+export SERVICE_NAME="disk"
+export LOG_FILE="disk.log"
 
 export PROJECT_SYSTEM_LIB=
-export PROJECT_PYTHON_LIB="adafruit-circuitpython-rfm9x"
+export PROJECT_PYTHON_LIB="adafruit_ssd1306"
 
 ####################################################################
 

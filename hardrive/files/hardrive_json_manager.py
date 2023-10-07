@@ -1,14 +1,13 @@
-import json
 import logging
 
 import jsonpath_rw_ext
 
 # '{}_{}_{}_{}'.format(s1, i, s2, f)
 from dadou_utils.files.abstract_json_manager import AbstractJsonManager
-from dadou_utils.utils_static import COLOR
-
-from dadou_utils.utils_static import JSON_AUDIOS, JSON_AUDIO_SEQUENCE, JSON_COLORS, JSON_EXPRESSIONS, JSON_MAPPINGS, \
-    JSON_VISUALS, JSON_LIGHTS, JSON_RELAYS, LOGGING_CONFIG_FILE, BASE_PATH, JSON_DIRECTORY
+from dadou_utils.utils_static import COLOR, JSON_LIGHTS_BASE
+from dadou_utils.utils_static import JSON_AUDIOS, JSON_COLORS, JSON_MAPPINGS, \
+    JSON_LIGHTS
+from hardrive.hardrive_config import JSON_HELMET
 
 
 class HardDriveJsonManager(AbstractJsonManager):
@@ -20,7 +19,7 @@ class HardDriveJsonManager(AbstractJsonManager):
 
     def __init__(self, config):
         self.config = config
-        component = [self.config[JSON_COLORS], self.config[JSON_LIGHTS]]
+        component = [self.config[JSON_COLORS], config[JSON_LIGHTS_BASE], JSON_HELMET]
 
         super().__init__(config, component)
 
@@ -28,16 +27,16 @@ class HardDriveJsonManager(AbstractJsonManager):
     #    result = self.find(self.face_seq, 'main_seq', '$.keys[?key ~ ' + key + ']')
     #    return self.standard_return(result, False, False)
 
-    def get_lights(self, key):
+    """def get_lights(self, key):
         return self.get_dict_from_list(self.json_files[self.config[JSON_LIGHTS]], "keys", key)
 
 
-    """def get_lights(self, key):
+    "def get_lights(self, key):
         result = jsonpath_rw_ext.match('$.lights_seq[?keys~' + key + ']', self.lights)
         # logging.debug(result)
         #return self.standard_return(result, True, key)
         if len(result) > 0:
-            return result[0]"""
+            return result[0]
 
     def get_color(self, key):
         result = jsonpath_rw_ext.match('$.colors[?name~' + key + ']', self.json_files[self.config[JSON_COLORS]])
@@ -73,4 +72,4 @@ class HardDriveJsonManager(AbstractJsonManager):
             result = jsonpath_rw_ext.match("$."+mapping_type+"[?(keys[*]~'"+key+"')]", self.json_files[self.config[JSON_MAPPINGS]])
             return self.standard_return(result, True, 'value')
         else:
-            logging.error("input str None")
+            logging.error("input str None")"""

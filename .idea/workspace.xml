@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c522631-852d-459b-a30c-3507756bf90b" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hardrive/tests/test_led.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hardrive/tests/test_neopixel2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hardrive/tests/test_oled.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dadou_robot/dadou_utils" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dadou_robot/dadourobot/ai/robot_dialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dadou_sceno/audios/didier20/reinitialisation-prometeus.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dadou_sceno/audios/psychotrope.aup3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dadou_sceno/audios/song/motivation_super_short.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dadou_sceno/dadousceno/actions/relays_sceno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dadou_sceno/dadousceno/files/test_sceno_audio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dadou_sceno/dadousceno/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dadou_sceno/dadousceno/tests/simplegy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dadou_sceno/json/relays.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/logging-test.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/logging-test.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/logging.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/logging.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardrive/files/hardrive_json_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/hardrive/files/hardrive_json_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardrive/hardrive_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/hardrive/hardrive_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardrive/hardrive_factory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardrive/tests/test_lights2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hardrive/tests/test_lights2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/colors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/lights_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/lights_disk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/lights_helmet.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/lights_methods.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/lights_sequence.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/projects_lights/disk_lights.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/projects_lights/robot_lights.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/projects_lights/sceno_lights.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/robot_lights.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/project-deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/project-deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_robot/dadourobot/actions/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_robot/dadourobot/actions/wheel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_robot/dadourobot/ai/chat_gpt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_robot/dadourobot/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_robot/dadourobot/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_robot/dadourobot/robot_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_robot/dadourobot/robot_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_robot/dadourobot/tests/test_chatgpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_robot/dadourobot/tests/test_chatgpt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_robot/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_robot/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_robot/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_robot/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_robot/scripts/project-deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_robot/scripts/project-deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_sceno/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_sceno/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_sceno/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/audios/didier20/activation_transfer.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_sceno/audios/didier20/activation_transfer.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/audios/didier20/activation_transfer2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/audios/didier20/procedure-reconnaissance-inconditionnel.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/audios/didier20/reconfiguration-acceptation-inconditionnelle.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/audios/didier20/reconfiguration-langagiere.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/audios/didier20/reconfiguration_emotionelle.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/audios/didier20/reconfiguration_familliale.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/audios/didier20/transfer_impossible.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/audios/didier20/transfer_impossible2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/audios/effects/encephalogramme.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_sceno/audios/effects/encephalogramme.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/audios/song/motivation_short.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_sceno/audios/song/motivation_short.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/conf/logging.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_sceno/conf/logging.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/dadousceno/files/sceno_json_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_sceno/dadousceno/files/sceno_json_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/dadousceno/sceno_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_sceno/dadousceno/sceno_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/json/audios.json" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_sceno/json/audios.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_sceno/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_sceno/scripts/project-deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_sceno/scripts/project-deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/.idea/dadou_utils.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/com/serial_device.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/com/serial_device.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_0inch96.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_0inch96.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch14.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch28.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch47.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch47.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch54.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch54.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch9.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_1inch9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_2inch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_2inch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_2inch4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/lcd/LCD_2inch4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/lcd/lcdconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/lcd/lcdconfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/activate-i2c.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/activate-i2c.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/check-internet.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/check-internet.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/check-power.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/check-power.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/colors.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/colors.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/deploy-all.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/deploy-all.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/deploy-utils.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/deploy-utils.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/install-autostart.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/install-autostart.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/install-lib.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/install-lib.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/install-service.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/install-service.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/local-install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/local-install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/params.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/params.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/remote-install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/remote-install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/set-bashrc.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/set-bashrc.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/set-usb-audio.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/set-usb-audio.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/set-vimrc.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/scripts/deploy/set-vimrc.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dadou_utils/utils_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dadou_utils/utils_static.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2NTymU73VSADL0vHqWvwKRRGwv4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/dadou/Nextcloud/Didier/python/dadou_disk",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/json/projects_lights" />
+      <recent name="$PROJECT_DIR$/hardrive/tests" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/conf/rpi" />
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/json" />
+      <recent name="$PROJECT_DIR$/hardrive" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_lights2">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HardDrive" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_lights2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HardDrive" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hardrive/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hardrive/tests/test_lights2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_lights2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c522631-852d-459b-a30c-3507756bf90b" name="Changes" comment="" />
+      <created>1679702525582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679702525582</updated>
+      <workItem from="1679702527527" duration="8023000" />
+      <workItem from="1679836638738" duration="21000" />
+      <workItem from="1680890830954" duration="19473000" />
+      <workItem from="1680943443223" duration="6738000" />
+      <workItem from="1681073460538" duration="771000" />
+      <workItem from="1681077540395" duration="50000" />
+      <workItem from="1682196841760" duration="956000" />
+      <workItem from="1682198318596" duration="168000" />
+      <workItem from="1682198497253" duration="11000" />
+      <workItem from="1693988469032" duration="286000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1681077553361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681077553361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../dadou_robot/dadourobot/actions/lights.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../dadou_robot/dadourobot/actions/lights.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HardDrive$main.coverage" NAME="main Coverage Results" MODIFIED="1680952979294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HardDrive$test_lights2.coverage" NAME="test_lights2 Coverage Results" MODIFIED="1681073485551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hardrive/tests" />
+  </component>
+</project>
